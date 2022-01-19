@@ -1,13 +1,13 @@
-# Copyright (C) 2021 The CherishOS Project
+# Copyright (C) 2021 Lineage OS
 #
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_violet.mk
+    $(LOCAL_DIR)/lineage_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_violet-userdebug \
-    cherish_violet-user \
-    cherish_violet-eng
+    lineage_violet-userdebug \
+    lineage_violet-user \
+    lineage_violet-eng
