@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_violet.mk
+    $(LOCAL_DIR)/aosp_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_violet-userdebug \
-    cherish_violet-user \
-    cherish_violet-eng
+    aosp_violet-userdebug \
+    aosp_violet-user \
+    aosp_violet-eng
