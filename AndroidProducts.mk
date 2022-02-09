@@ -1,4 +1,4 @@
-# Copyright (C) 2020-2021 Wave-OS
+# Copyright (C) 2020-2022 CherishOS
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -13,9 +13,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/awaken_violet.mk
+    $(LOCAL_DIR)/cherish_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    awaken_violet-user \
-    awaken_violet-userdebug \
-    awaken_violet-eng
+    cherish_violet-user \
+    cherish_violet-userdebug \
+    cherish_violet-eng
