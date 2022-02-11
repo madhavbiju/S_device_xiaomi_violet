@@ -1,4 +1,4 @@
-# Copyright (C) 2020-2022 CherishOS
+# Copyright (C) 2020-2022 xdroidOSS
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -13,9 +13,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_violet.mk
+    $(LOCAL_DIR)/xdroid_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_violet-user \
-    cherish_violet-userdebug \
-    cherish_violet-eng
+    xdroid_violet-user \
+    xdroid_violet-userdebug \
+    xdroid_violet-eng
